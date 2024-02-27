@@ -1,2 +1,2 @@
-# clustering
-Kmeans clustering project for UCB
+# KMeans Clustering
+Kmeans Clustering project for MIDS, UC Berkeley, Applied Machine Learning course. Tasked with creating color clusters to identify different groups and trends. 
